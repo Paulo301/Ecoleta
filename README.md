@@ -1,5 +1,5 @@
 # Ecoleta
-Projeto desenvolvido durante a Next Level Week que teve início em 01/06/2020.
+Projeto desenvolvido durante a Next Level Week #01 que teve início em 01/06/2020.
 
 # Passos para exexutar o projeto
 
